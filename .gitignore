@@ -1,0 +1,13 @@
+*.pyc
+scripts/tokens.py
+etc/shinken/adagios/banks.cfg
+etc/shinken/adagios/dating.cfg
+etc/shinken/adagios/dns.cfg
+etc/shinken/adagios/environment.cfg
+etc/shinken/adagios/hospitals.cfg
+etc/shinken/adagios/isp.cfg
+etc/shinken/adagios/transports.cfg
+etc/shinken/adagios/websites.cfg
+venv
+*.swp
+*.swo
